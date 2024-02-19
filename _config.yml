@@ -21,7 +21,7 @@ repository               : "HarshithaBR/harshithabr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "HBR.jpg"
+  avatar           : "HBR.JPG"
   name             : "Harshitha B R"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision, Robotics and Machine Learning Enthusiast"

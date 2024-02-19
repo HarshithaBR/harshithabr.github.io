@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Multiple Multicast Architecture for XMPP based Applications"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-10-01
+venue: '3rd International Conference for Emerging Technology (INCET), IEEE, 2022'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9824745'
+citation: 'Harshitha B R, Niyati B Mehta, Shivangi Rai, Deepti , S M Dilip Kumar, S Sheela'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

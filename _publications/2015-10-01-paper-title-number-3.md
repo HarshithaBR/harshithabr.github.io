@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Multiple Multicast Architecture for IoT enabled XMPP based Applications"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2023-10-01

@@ -1,7 +1,6 @@
 ---
 title: "Multiple Multicast Architecture for IoT enabled XMPP based Applications"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2023-10-01
 venue: 'Journal of Advances in Shell Programming'
 paperurl: 'https://stmcomputers.stmjournals.com/index.php/JoASP/article/view/611'

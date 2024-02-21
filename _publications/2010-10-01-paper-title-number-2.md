@@ -1,7 +1,7 @@
 ---
 title: "Multiple Multicast Architecture for XMPP based Applications"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: 
 date: 2021-10-01
 venue: '3rd International Conference for Emerging Technology (INCET), IEEE, 2022'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9824745'

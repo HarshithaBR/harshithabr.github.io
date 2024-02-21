@@ -1,7 +1,6 @@
 ---
 title: "Development and comparison studies of XR interfaces for path definition in remote welding scenarios"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 date: Oct 23
 venue: ' Springer Multimedia Tools and Applications'
 paperurl: 'https://link.springer.com/article/10.1007/s11042-023-17604-y'

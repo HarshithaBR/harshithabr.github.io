@@ -33,13 +33,18 @@ sections:
   - block: markdown
     content:
       title: '📚 My Research'
-      subtitle: ''
+      subtitle: 'SLURM'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation
+        - Working on robotic manipulation in contact rich scenarios and leveraging trajectory optimisation for planning.
+        - Building a simulation for scooping particular particles in a clustered environment.
+        - Building a solution to enable robotic assistance for dressing of patients with muscular dystrophe and other neuro immune conditions, as well as working on assistance for sponge bathing a patient, to ensure maximum coverage.
+      subtitle: 'Indian Institue of Science'
+      text: |-
+        - Worked at Intelligent Inclusive Interaction Design (I3D) Lab, CPDM, Indian Institute of Science, Bangalore
+        - Performed a Comparative study across Mixed reality and Virtual reality based remote welding Digital twin applications and mapping the coordinates defined for welding movement to the robot coordinates using regression technique.
+        - Built an assistive Assembly Process Instruction tool in collaboration with Collin's Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled me to understand various types of object detection algorithms in Computer Vision, study various object detection models(YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same. Instructions and warnings based on a defined Assembly Process are provided to the user in a mixed reality application; after the detection of the components.
+        - Built a custom dataset for the components in hand and got experience in the various pre-processing steps involved with creating the dataset, with real and synthetic images. Tried different augmentations on the dataset created.   
     design:
       columns: '1'
   - block: collection

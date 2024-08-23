@@ -51,40 +51,32 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Computer Science
+    institution: University of Southern California
+    date_start: 2023-08-01
+    date_end: 2025-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.98/4.0
+      Courses included:
+      - Design and Analysis Algorithms
+      - Robotics
+      - Deep Learning for Robot Manipulation
+      - Robotic Perception
+      - Machine Learning
+      - Applied natural Language Processing
+  - area: BE Computer Science and Enginering
+    institution: University of Visvesvaraya College of Engineering
+    date_start: 2017-08-01
+    date_end: 2021-07-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms, Data Structures, Machine Learning, Artificial Intelligence, Data Mining
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: SLURM Lab, USC
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01

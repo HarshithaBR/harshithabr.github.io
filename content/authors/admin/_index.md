@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Harshitha Belagavi Rajaprakash
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Harshitha 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Harshitha
+last_name: B R
 
 # Status emoji
 status:

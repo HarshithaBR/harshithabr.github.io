@@ -46,7 +46,7 @@ sections:
         - Built an assistive Assembly Process Instruction tool in collaboration with Collin's Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled me to understand various types of object detection algorithms in Computer Vision, study various object detection models(YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same. Instructions and warnings based on a defined Assembly Process are provided to the user in a mixed reality application; after the detection of the components.
         - Built a custom dataset for the components in hand and got experience in the various pre-processing steps involved with creating the dataset, with real and synthetic images. Tried different augmentations on the dataset created.   
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:

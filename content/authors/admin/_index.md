@@ -87,17 +87,17 @@ work:
       - Working on robotic manipulation in contact rich scenarios and leveraging trajectory optimisation for planning.
       - Building a simulation for scooping particular particles in a clustered environment.
       - Building a solution to enable robotic assistance for dressing of patients with muscular dystrophe and other neuro immune conditions, as well as working on assistance for sponge bathing a patient, to ensure maximum coverage.
-  - position: Research Assistant
-    company_name: Intelligent Inclusive Interaction Design (I3D) Lab, Indian Institute of Science, Bangalore
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-10-01
-    date_end: '2023-17-15'
-    summary: |2-
-      Responsibilities include:
-      - Performed a Comparative study across Mixed reality and Virtual reality based remote welding Digital twin applications and mapping the coordinates defined for welding movement to the robot coordinates using regression technique.
-      - Built an assistive Assembly Process Instruction tool in collaboration with Collin's Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled me to understand various types of object detection algorithms in Computer Vision, study various object detection models(YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same. Instructions and warnings based on a defined Assembly Process are provided to the user in a mixed reality application; after the detection of the components.
-      - Built a custom dataset for the components in hand and got experience in the various pre-processing steps involved with creating the dataset, with real and synthetic images. Tried different augmentations on the dataset created.
+  # - position: Research Assistant
+  #   company_name: Intelligent Inclusive Interaction Design (I3D) Lab, Indian Institute of Science, Bangalore
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2022-10-01
+  #   date_end: '2023-17-15'
+  #   summary: |2-
+  #     Responsibilities include:
+  #     - Performed a Comparative study across Mixed reality and Virtual reality based remote welding Digital twin applications and mapping the coordinates defined for welding movement to the robot coordinates using regression technique.
+  #     - Built an assistive Assembly Process Instruction tool in collaboration with Collin's Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled me to understand various types of object detection algorithms in Computer Vision, study various object detection models(YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same. Instructions and warnings based on a defined Assembly Process are provided to the user in a mixed reality application; after the detection of the components.
+  #     - Built a custom dataset for the components in hand and got experience in the various pre-processing steps involved with creating the dataset, with real and synthetic images. Tried different augmentations on the dataset created.
   # - position: Developer Associate 
   #   company_name: SAP Labs India
   #   company_url: ''

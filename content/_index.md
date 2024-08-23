@@ -49,24 +49,22 @@ sections:
   #     columns: '1'
 
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: 'SLURM'
-      text: |-
-        - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation
-        - Working on robotic manipulation in contact-rich scenarios and leveraging trajectory optimization for planning.
-        - Building a simulation for scooping particular particles in a clustered environment.
-        - Building a solution to enable robotic assistance for dressing patients with muscular dystrophy and other neuro-immune conditions, as well as working on assistance for sponge bathing a patient to ensure maximum coverage.
-    design:
-      columns: '1'
+  content:
+    title: '📚 My Research'
+    text: |-
+      **SLURM Lab, USC**
+      - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation.
+      - Working on robotic manipulation in contact-rich scenarios and leveraging trajectory optimization for planning.
+      - Building a simulation for scooping particular particles in a clustered environment.
+      - Building a solution to enable robotic assistance for dressing patients with muscular dystrophy and other neuro-immune conditions, as well as working on assistance for sponge bathing a patient to ensure maximum coverage.
 
-  - block: markdown
-    content:
-      subtitle: 'Indian Institute of Science'
-      text: |-
-        - Worked at Intelligent Inclusive Interaction Design (I3D) Lab, CPDM, Indian Institute of Science, Bangalore
-        - Performed a comparative study across Mixed Reality and Virtual Reality-based remote welding Digital Twin applications and mapped the coordinates defined for welding movement to the robot coordinates using a regression technique.
-        - Built an assistive Assembly Process Instruction tool in collaboration with Collins Aerospace, where Computer Vision is used to detect the components. Involved extensively
+      **I3D Lab, Indian Institute of Science, Bangalore**
+      - Worked at Intelligent Inclusive Interaction Design (I3D) Lab, CPDM, Indian Institute of Science, Bangalore.
+      - Performed a comparative study across Mixed Reality and Virtual Reality-based remote welding Digital Twin applications and mapped the coordinates defined for welding movement to the robot coordinates using a regression technique.
+      - Built an assistive Assembly Process Instruction tool in collaboration with Collins Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled understanding of various types of object detection algorithms in Computer Vision, and studying various object detection models (YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same.
+      - Built a custom dataset for the components in hand and gained experience in the various pre-processing steps involved with creating the dataset, using both real and synthetic images. Tried different augmentations on the dataset created.
+  design:
+    columns: '1'
 
 
   - block: collection

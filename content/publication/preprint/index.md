@@ -17,8 +17,8 @@ publishDate: "2024-12-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Pattern Recognition(ICPR)"
-publication_short: "ICPR 2024"
+publication: ""
+publication_short: ""
 
 abstract: Extended Reality (XR) technologies have recently presented a novel approach for human-robot interaction. In these advancements, humans manipulate holograms to define the robots path. However, ensuring the stability of these holograms is crucial, as their position appears altered from the users perspective when viewed through a Head-Mounted Display (HMD). This swimming effect; of the hologram directly impacts robot path planning. This paper proposed a new way for analysis of swimming effect of the hologram using robot, and compared three existing methods with spatial anchors, employing the world locking tool (WLT), and a method without spatial anchors or WLT. An experiment was conducted, and the results revealed that the WLT approach significantly reduces the swimming effect of the hologram compared to the other two methods when the user views from different viewpoint.
 

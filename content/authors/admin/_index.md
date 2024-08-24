@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robocist
+role: Robotist, Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

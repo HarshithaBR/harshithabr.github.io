@@ -24,21 +24,10 @@ publication_types: ["article-journal"]
 publication: "*Signal, Image and Video Processing Journal, Springer*"
 publication_short: "(In Review)"
 
-abstract: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmen-
-tation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation
-models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mech-
-anism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations. The model is evaluated on the Indian Driving Dataset (IDD), featuring unstructured road
-environments, and the Cityscape dataset. Comparative pixel-wise analysis shows the proposed model
-outperforming four other state-of-the-art segmentation models by 12.91% on the IDD and by 19.7%
-over the second-best model on the Cityscape dataset in terms of F1 score. Furthermore, an extensive
-ablation study validates the efficacy of the ensemble approach and underscores the effectiveness of
-categorical cross-entropy as the chosen loss function.
+abstract: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmentation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mechanism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations. The model is evaluated on the Indian Driving Dataset (IDD), featuring unstructured road environments, and the Cityscape dataset. Comparative pixel-wise analysis shows the proposed model outperforming four other state-of-the-art segmentation models by 12.91% on the IDD and by 19.7% over the second-best model on the Cityscape dataset in terms of F1 score. Furthermore, an extensive ablation study validates the efficacy of the ensemble approach and underscores the effectiveness of categorical cross-entropy as the chosen loss function.
 
 # Summary. An optional shortened abstract.
-summary: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmen-
-tation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation
-models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mech-
-anism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations.
+summary: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmentation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mechanism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations.
 
 tags:
 - Object Detection

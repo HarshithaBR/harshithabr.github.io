@@ -1,12 +1,15 @@
 ---
-title: "An example journal article"
+title: "I-ROD: An Ensemble CNNs for Object Detection in Unconstrained Road Scenarios"
 authors:
+- Abhishek Mukhopadhyay
 - admin
-- Robert Ford
+- Prashant T Gaikwad
+- Imon Mukherjee
+- Pradipta Biswas
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,23 +21,37 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Signal, Image and Video Processing Journal, Springer*"
+publication_short: "(In Review)"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmen-
+tation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation
+models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mech-
+anism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations. The model is evaluated on the Indian Driving Dataset (IDD), featuring unstructured road
+environments, and the Cityscape dataset. Comparative pixel-wise analysis shows the proposed model
+outperforming four other state-of-the-art segmentation models by 12.91% on the IDD and by 19.7%
+over the second-best model on the Cityscape dataset in terms of F1 score. Furthermore, an extensive
+ablation study validates the efficacy of the ensemble approach and underscores the effectiveness of
+categorical cross-entropy as the chosen loss function.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Solving the problem of object detection in complex and unstructured environments is crucial for enhancing the safety and efficiency of autonomous system. This paper introduces a semantic segmen-
+tation model capable of accurate object detection in complex backgrounds by integrating multiple Convolutional Neural Networks (CNNs). The system incorporates two distinct types of segmentation
+models, an encoder-decoder architecture for acquiring abstract feature representations and a dilated convolutional branch to tackle variations in object sizes. The model employs a dynamic fusion mech-
+anism based on confidence scores from each branch, allowing it to adapt to varying and dynamic situations.
 
 tags:
-- Source Themes
-featured: false
+- Object Detection
+- Semantic Segmentation
+- Convolutional Neural Network (CNN)
+
+featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

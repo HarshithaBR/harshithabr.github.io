@@ -1,23 +1,29 @@
 ---
-title: 'An example conference paper'
+title: 'Development and comparison studies of XR interfaces for path definition in remote welding scenarios'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Ananthram Rao M C
+  - Subin Raj
   - admin
-  - Robert Ford
+  - Aumkar Kishore Shah
+  - Naveen R Talawar
+  - Vinay Krishna Sharma
+  - Sanjana M
+  - Himanshu Vshwakarma 
+  - Pradipta Biswas
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+
+date: '2023-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +31,19 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Multimedia Tools and Applications*
+publication_short: In *Springer*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The recent pandemic and associated hybrid work culture reignites the importance of extended reality (XR) technologies for remote collaboration across the world. As different ranges of automation are introduced in the industry with an increasing focus on digitalization, safety, and productivity, it is important to understand the context and physiological metrics of existing human operators. This paper describes the implementation of a virtual reality (VR) and mixed reality (MR) interface of a welding process and compares operators' performance using such technologies. Initially, MR and VR were compared with respect to a pointing task followed by a welding task involving trajectory definition and actual robotic arm movement. A plethora of parameters involving ocular data, Electroencephalography (EEG), hand movement, subjective opinion and quantitative measures were recorded and analyzed. The results of physiological parameters such as EEG based Task Load Index, Task Engagement Index, ocular fixation rate and average fixation duration indicated that the VR interaction involved higher levels of engagement, lower mental processing load and distinct visual processing mechanisms in the optical cortex compared to the MR interaction. Similar comparison trends observed in these parameters across both tasks confirmed the reproducibility of the experiment methodology and results. Results from the study can be used in terms of selecting rendering media for other immersive applications such as teleoperation, path planning and navigation scenarios in multiple domains such as manufacturing, robotics, healthcare, and education. The results were used to develop a multi-modal VR interface with a novel collision-based weld path definition method suitable for industrial deployment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper describes the implementation of a virtual reality (VR) and mixed reality (MR) interface of a welding process and compares operators' performance using such technologies.
 
 tags:
-  - Large Language Models
+  - Mixed Reality
+  - Computer Vision
+  - Robotics
+  - Digital Twin
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,12 +54,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://link.springer.com/article/10.1007/s11042-023-17604-y'
 url_video: 'https://youtube.com'
 
 # Featured image

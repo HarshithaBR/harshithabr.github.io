@@ -60,7 +60,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://link.springer.com/article/10.1007/s11042-023-17604-y'
-url_video: 'https://youtube.com'
+url_video: 'https://youtu.be/IMkEpU5QDjI?si=Vn9y3IQcSfQsIMHF'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

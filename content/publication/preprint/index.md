@@ -1,12 +1,15 @@
 ---
-title: "An example preprint / working paper"
+title: "Investigating Swimming Effect of Holograms in Mixed Reality"
 authors:
+- Subin Raj
 - admin
+- Amaresh Chakrabarti
+- Pradipta Biswas
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +20,25 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Extended Reality (XR) technologies have recently presented a novel approach for human-robot interaction. In these advancements, humans manipulate holograms to define the robots path. However, ensuring the stability of these holograms is crucial, as their position appears altered from the users perspective when viewed through a Head-Mounted Display (HMD). This swimming effect; of the hologram directly impacts robot path planning. This paper proposed a new way for analysis of swimming effect of the hologram using robot, and compared three existing methods with spatial anchors, employing the world locking tool (WLT), and a method without spatial anchors or WLT. An experiment was conducted, and the results revealed that the WLT approach significantly reduces the swimming effect of the hologram compared to the other two methods when the user views from different viewpoint.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This swimming effect; of the hologram directly impacts robot path planning. This paper proposed a new way for analysis of swimming effect of the hologram using robot, and compared three existing methods with spatial anchors, employing the world locking tool (WLT), and a method without spatial anchors or WLT. 
 
 tags:
-- Large Language Models
+- Extended reality
+- Augmented Reality
+- Mixed Reality
+- Hologram Stability
+- Robot planning
 
 featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''

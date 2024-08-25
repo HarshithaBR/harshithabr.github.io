@@ -19,8 +19,10 @@ publishDate: "2023-05-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Signal, Image and Video Processing Journal, Springer*"
-publication_short: "Signal, Image and Video Processing Journal, Springer; (In Review)"
+publication: "* IC-ICIC-2023; International Conference
+on IOT, Communication, Intelligence and Computing*"
+publication_short: " IC-ICIC-2023; International Conference
+on IOT, Communication, Intelligence and Computing"
 
 abstract: A mathematical formula is devised to optimize latency and bandwidth, subject to constraints during message passing down the logical tree. Pseudo code and algorithms on message transmission by a publisher and various other cases, such as subscriber management and changing the cluster head, are discussed. A diverse set of example cases are presented that can use multiple multicast for XMPP-based applications. The basic version of this work was presented in INCET 2022 Conference.
 

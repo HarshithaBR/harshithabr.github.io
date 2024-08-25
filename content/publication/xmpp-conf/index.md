@@ -6,7 +6,7 @@ authors:
 - Shivangi Rai
 - Deepti
 - S M Dilip Kumar
-- S Sheela,
+- S Sheela
 
 author_notes:
 

@@ -220,7 +220,9 @@ awards:
 
 ## About Me
 
-Hi There! :) I am currently pursuing Master's in Computer Science student at University of Southern California, LA. I am working with Prof. Daniel Seita at SLURM Lab, USC. My research interests include robotics, robotic perception, assistive and caregiving robotics.
+Hi There! :) 
+
+I am currently pursuing Master's in Computer Science student at University of Southern California, LA. I am working with Prof. Daniel Seita at SLURM Lab, USC. My research interests include robotics, robotic perception, assistive and caregiving robotics.
 
 I am keen on pursuing a PhD following my Master's, where i would like to work in areas of Robot Manipulation in contact rich scenaros, and Assistive Robotics.
 

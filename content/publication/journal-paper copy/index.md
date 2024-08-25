@@ -1,29 +1,25 @@
 ---
-title: 'Development and comparison studies of XR interfaces for path definition in remote welding scenarios'
+title: 'Investigating Swimming Effect of Holograms in Mixed Reality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ananthram Rao M C
+  - 
   - Subin Raj
   - admin
-  - Aumkar Kishore Shah
-  - Naveen R Talawar
-  - Vinay Krishna Sharma
-  - Sanjana M
-  - Himanshu Vshwakarma 
+  - Amaresh Chakrabarti
   - Pradipta Biswas
 
 # Author notes (optional)
 author_notes:
 
 
-date: '2023-11-01T00:00:00Z'
+date: '2024-12-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-11-01T00:00:00Z'
+publishDate: '2024-12-05T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,19 +27,20 @@ publishDate: '2023-11-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Multimedia Tools and Applications*
-publication_short: In *Multimedia Tools and Applications*, Springer
+publication: In *International Conference for Pattern Recognition(ICPR)*
+publication_short: In *International Conference for Pattern Recognition(ICPR), 2024*
 
-abstract: The recent pandemic and associated hybrid work culture reignites the importance of extended reality (XR) technologies for remote collaboration across the world. As different ranges of automation are introduced in the industry with an increasing focus on digitalization, safety, and productivity, it is important to understand the context and physiological metrics of existing human operators. This paper describes the implementation of a virtual reality (VR) and mixed reality (MR) interface of a welding process and compares operators' performance using such technologies. Initially, MR and VR were compared with respect to a pointing task followed by a welding task involving trajectory definition and actual robotic arm movement. A plethora of parameters involving ocular data, Electroencephalography (EEG), hand movement, subjective opinion and quantitative measures were recorded and analyzed. The results of physiological parameters such as EEG based Task Load Index, Task Engagement Index, ocular fixation rate and average fixation duration indicated that the VR interaction involved higher levels of engagement, lower mental processing load and distinct visual processing mechanisms in the optical cortex compared to the MR interaction. Similar comparison trends observed in these parameters across both tasks confirmed the reproducibility of the experiment methodology and results. Results from the study can be used in terms of selecting rendering media for other immersive applications such as teleoperation, path planning and navigation scenarios in multiple domains such as manufacturing, robotics, healthcare, and education. The results were used to develop a multi-modal VR interface with a novel collision-based weld path definition method suitable for industrial deployment.
+abstract: Extended Reality (XR) technologies have recently presented a novel approach for human-robot interaction. In these advancements, humans manipulate holograms to define the robots path. However, ensuring the stability of these holograms is crucial, as their position appears altered from the users perspective when viewed through a Head-Mounted Display (HMD). This swimming effect; of the hologram directly impacts robot path planning. This paper proposed a new way for analysis of swimming effect of the hologram using robot, and compared three existing methods with spatial anchors, employing the world locking tool (WLT), and a method without spatial anchors or WLT. An experiment was conducted, and the results revealed that the WLT approach significantly reduces the swimming effect of the hologram compared to the other two methods when the user views from different viewpoint.
 
 # Summary. An optional shortened abstract.
-summary: This paper describes the implementation of a virtual reality (VR) and mixed reality (MR) interface of a welding process and compares operators' performance using such technologies.
+summary: This swimming effect; of the hologram directly impacts robot path planning. This paper proposed a new way for analysis of swimming effect of the hologram using robot, and compared three existing methods with spatial anchors, employing the world locking tool (WLT), and a method without spatial anchors or WLT.
 
 tags:
+  - Hologram Stabiity
   - Mixed Reality
   - Computer Vision
   - Robotics
-  - Digital Twin
+  - Robot Planning
 
 # Display this page in the Featured widget?
 featured: true
@@ -59,8 +56,8 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007/s11042-023-17604-y'
-url_video: 'https://youtu.be/IMkEpU5QDjI?si=Vn9y3IQcSfQsIMHF'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

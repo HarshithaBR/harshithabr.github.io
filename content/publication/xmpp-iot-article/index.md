@@ -32,7 +32,7 @@ tags:
 - IoT
 - LPP
 
-featured: True
+featured: False
 
 # links:
 # - name: ""

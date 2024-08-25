@@ -1,5 +1,5 @@
 ---
-title: 'Investigating Swimming Effect of Holograms in Mixed Reality'
+title: "Investigating Swimming Effect of Holograms in Mixed Reality"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,16 +14,16 @@ authors:
 author_notes:
 
 
-date: '2024-12-01T00:00:00Z'
+date: "2024-12-01T00:00:00Z"
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-12-01T00:00:00Z'
+publishDate: "2024-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Pattern Recognition(ICPR) 2024*
@@ -54,8 +54,8 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://link.springer.com/article/10.1007/s11042-023-17604-y'
-url_video: 'https://youtu.be/IMkEpU5QDjI?si=Vn9y3IQcSfQsIMHF'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

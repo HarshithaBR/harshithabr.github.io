@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Experience & Education'
 date: 2023-10-24
 type: landing
 
@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -28,8 +28,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

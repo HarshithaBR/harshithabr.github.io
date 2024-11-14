@@ -86,7 +86,7 @@ work:
       - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation
       - Working on robotic manipulation in contact rich scenarios and leveraging trajectory optimisation for planning.
       - Building a simulation for scooping particular particles in a clustered environment.
-      - Building a solution to enable robotic assistance for dressing of patients with muscular dystrophe and other neuro immune conditions, as well as working on assistance for sponge bathing a patient, to ensure maximum coverage.
+      - Building a solution to enable robotic assistance for dressing of patients with muscular dystrophe and other neuro immune conditions
   - position: Research Assistant
     company_name: Intelligent Inclusive Interaction Design (I3D) Lab, Indian Institute of Science, Bangalore
     company_url: ''
@@ -98,6 +98,8 @@ work:
       - Performed a Comparative study across Mixed reality and Virtual reality based remote welding Digital twin applications and mapping the coordinates defined for welding movement to the robot coordinates using regression technique.
       - Built an assistive Assembly Process Instruction tool in collaboration with Collin's Aerospace, where Computer Vision is used to detect the components. Involved extensively in this stage of the project, which enabled me to understand various types of object detection algorithms in Computer Vision, study various object detection models(YOLO V5, YOLO V7, DETR, YOLOV8) and different versions of the same. Instructions and warnings based on a defined Assembly Process are provided to the user in a mixed reality application; after the detection of the components.
       - Built a custom dataset for the components in hand and got experience in the various pre-processing steps involved with creating the dataset, with real and synthetic images. Tried different augmentations on the dataset created.
+      - Worked on analysing and comparing different anchoring techniques to handle the swimming effect of Holograms in a mixed reality application built for Hololens.
+      - Developed a semantic segmentation model designed for robust object detection in complex and unstructured environments, critical for improving autonomous system safety and efficiency. A dynamic fusion mechanism based on confidence scores allows adaptive performance in changing conditions. Evaluated on the Indian Driving Dataset (IDD) and the Cityscape dataset, the model surpasses four state-of-the-art methods, achieving 12.91% and 19.7% better F1 scores, respectively. 
   - position: Developer Associate
     company_name: SAP Labs India
     company_url: ''

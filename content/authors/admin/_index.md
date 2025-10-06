@@ -51,6 +51,10 @@ interests:
   - Artificial Intelligence
 
 education:
+  - area: PhD Computer Science
+    institution: University of Southern California
+    date_start: 2023-08-01
+    summary: GLAMOR Lab; Advised by Professor Jesse Thomasan
   - area: MS Computer Science
     institution: University of Southern California
     date_start: 2023-08-01
@@ -76,11 +80,30 @@ education:
   
 work:
   - position: Research Assistant
+    company_name: GLAMOR Lab, USC
+    company_url: ''
+    company_logo: ''
+    date_start: 'March 2025'
+    date_end: 'August 2025'
+    summary: |2-
+      Responsibilities include:
+      - Worked on multi robot planning and subtask allocation.
+      - Human Robot Colalboration for teamed object relocation.
+  - position: Research Assistant
+    company_name: SAIL Lab, USC
+    company_url: ''
+    company_logo: ''
+    date_start: 'February 2025'
+    date_end: 'May 2025'
+    summary: |2-
+      Responsibilities include:
+      - Worked on Behaviour Coding and acivity detection and recognition using videos of therapy sessions for children with Autism, to classify the severity of their condition.
+  - position: Research Assistant
     company_name: SLURM Lab, USC
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
-    date_end: ''
+    date_end: 'Novembe 2024'
     summary: |2-
       Responsibilities include:
       - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation
@@ -188,13 +211,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -224,8 +247,8 @@ awards:
 
 Hi There! :) 
 
-I am currently pursuing Master's in Computer Science student at University of Southern California, LA. I am working with Prof. Daniel Seita at SLURM Lab, USC. My research interests include robotics, robotic perception, assistive and caregiving robotics.
+I am a first year PhD student, advised by Professor Jesse Thomasan at University of Southern California, LA. I am interested in building robots that interact with humans and effectively collaborate and assist humans.
 
-I am keen on pursuing a PhD following my Master's, where i would like to work in areas of Robot Manipulation in contact rich scenaros, and Assistive Robotics.
+Previously, during my MSCS at USC, I was a research assistant with Prof Shri Narayanan at the SAIL Lab and at SLURM Lab with Prof Daniel Seita on robotic manipulation. During my time at Indian Institute of Science(IISc), Bangalore, India; I worked as a research assistant with Prof Pradipta Biswas at I3D Labs.
 
 ---

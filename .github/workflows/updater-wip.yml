@@ -1,21 +1,45 @@
+# name: Updater (WIP)
+
+# on:
+#   schedule:
+#     - cron: 0 0 * * 0
+#   # Allows you to run this workflow manually from the Actions tab on GitHub.
+#   workflow_dispatch:
+
+# # Provide permission to clone the repo and deploy it to GitHub Pages
+# permissions:
+#   contents: write
+
+# jobs:
+#   update:
+#     if: github.repository_owner == 'HugoBlox'
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: HugoBlox/gh-action-updater@v1
+#         with:
+#           feed-url: https://hugoblox.com/rss.xml
+#           readme-section: news
+#           branch: main
 name: Updater (WIP)
 
 on:
   schedule:
-    - cron: 0 0 * * 0
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
+  workflow_dispatch:      # Allows manual trigger from the Actions tab
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
-  contents: write
+  contents: write         # Required for committing updates to the repo
 
 jobs:
   update:
     if: github.repository_owner == 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
-      - uses: HugoBlox/gh-action-updater@v1
+      - name: Checkout repository
+        uses: actions/checkout@v4    # ✅ Updated to latest secure version
+
+      - name: Run HugoBlox updater
+        uses: HugoBlox/gh-action-updater@v1
         with:
           feed-url: https://hugoblox.com/rss.xml
           readme-section: news

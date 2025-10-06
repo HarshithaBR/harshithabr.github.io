@@ -83,8 +83,8 @@ work:
     company_name: GLAMOR Lab, USC
     company_url: ''
     company_logo: ''
-    date_start: 'March 2025'
-    date_end: 'August 2025'
+    date_start: 2025-03-01
+    date_end: 2025-08-01
     summary: |2-
       Responsibilities include:
       - Worked on multi robot planning and subtask allocation.
@@ -93,8 +93,8 @@ work:
     company_name: SAIL Lab, USC
     company_url: ''
     company_logo: ''
-    date_start: 'February 2025'
-    date_end: 'May 2025'
+    date_start: 2025-02-01
+    date_end: 2025-05-01
     summary: |2-
       Responsibilities include:
       - Worked on Behaviour Coding and acivity detection and recognition using videos of therapy sessions for children with Autism, to classify the severity of their condition.
@@ -103,7 +103,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
-    date_end: 'Novembe 2024'
+    date_end: 2024-11-01
     summary: |2-
       Responsibilities include:
       - Working at Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab at University of Southern California (USC) on Caregiving Robots, Plant Manipulation
